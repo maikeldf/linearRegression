@@ -1,11 +1,12 @@
 # Linear Regression
 Linear regression calculus for Yahoo Finance stock prices.  
 Into data folder there are some csv of 5-year historical prices.  
-Note the linear regression blue line.
 
 **usage:**  
 inside Octave/Matlab:  
-*>> linearRegression('data/PFE.csv')*
+*>> linearRegression('data/PFE.csv')*  
+
+Note the linear regression blue line.
 
 ![Alt text](img/PFE.png?raw=true "Pfizer Inc 5-year stock prices")
 
